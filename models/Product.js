@@ -27,7 +27,7 @@ Product.init(
         isDecimal:true
       }
     },
-    stack:{
+    stock:{
       type:DataTypes.INTEGER,
       defaultValue:10,
       validate:{
